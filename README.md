@@ -2,7 +2,7 @@
 
 ## Proyectos:
 
-Ejercicios de S.Q.L.  
+Ejercicios de S.Q.L. 
 
 ### Twitter 
 - HISTOGRAM OF TWEETS
