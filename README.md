@@ -3,6 +3,7 @@
 ## Proyectos:
 
 Ejercicios de S.Q.L. 
+Angel Granados
 
 ### Twitter 
 - HISTOGRAM OF TWEETS
