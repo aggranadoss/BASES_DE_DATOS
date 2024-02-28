@@ -3,10 +3,11 @@
 ## Proyectos:
 
 Ejercicios de S.Q.L. 
+
 Angel Granados
 
 ### Twitter 
-- HISTOGRAM OF TWEETS
+-  [HISTOGRAM OF TWEETS] (https://github.com/aggranadoss/BASES_DE_DATOS/tree/main/twitter)
 ### Linkedin 
 - DATA SCIENCE SKILLS
 ### Facebook 
