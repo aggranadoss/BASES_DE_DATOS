@@ -36,4 +36,4 @@ In other words, group the users by the number of tweets they posted in 2022 and 
 
 ## Solution
 
-histogram_of_tweets.sql 
+[histogram_of_tweets.sql](https://github.com/aggranadoss/BASES_DE_DATOS/blob/main/twitter/Histogram_of_Tweets.sql) 
