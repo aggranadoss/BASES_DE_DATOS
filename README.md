@@ -1,10 +1,10 @@
-# BASES DE DATOS
+# DATABASE
 
-## Proyectos:
+## Proyects:
 
-Ejercicios de S.Q.L. 
+Exercises of S.Q.L with MariaDB software. 
 
-Angel Granados
+By Angel Granados
 
 ### Twitter 
 - [HISTOGRAM OF TWEETS](https://github.com/aggranadoss/BASES_DE_DATOS/tree/main/twitter)
