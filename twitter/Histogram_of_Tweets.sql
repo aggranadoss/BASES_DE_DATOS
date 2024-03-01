@@ -24,12 +24,12 @@ insert into tweets values
     
 /* Solution  */
 
-select number_msg, COUNT(*) as user_count
-from (
-    select user_id, COUNT(*) as number_msg
-    from tweets
-    where year(tweet_date) = 2022
-    group by user_id
-) as subquery
+select number_msg, count(user_id)
+from ( 
+	select user_id, COUNT(msg) as number_msg
+	from tweets
+	where year(tweet_date) = 2022
+	group by user_id
+     )as subquery
 group by number_msg;
 
