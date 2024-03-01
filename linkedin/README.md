@@ -43,4 +43,4 @@ Assumption:
 
 ## Solution
 
-[histogram_of_tweets.sql](https://github.com/aggranadoss/BASES_DE_DATOS/blob/main/twitter/Histogram_of_Tweets.sql) 
+[data_science_skill.sql](https://github.com/aggranadoss/BASES_DE_DATOS/blob/main/linkedin/data_science_skill.sql) 
