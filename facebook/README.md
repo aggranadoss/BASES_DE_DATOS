@@ -51,4 +51,4 @@ Write a query to return the IDs of the Facebook pages that have zero likes. The 
 
 ## Solution
 
-[data_science_skill.sql](https://github.com/aggranadoss/BASES_DE_DATOS/blob/main/linkedin/data_science_skill.sql) 
+[Page_With_NO_Likes.sql](https://github.com/aggranadoss/BASES_DE_DATOS/blob/main/facebook/Page_With_No_Likes.sql) 
