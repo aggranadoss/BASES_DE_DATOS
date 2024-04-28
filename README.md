@@ -5,8 +5,6 @@
 Exercises of S.Q.L with MariaDB software. 
 
 By Angel Granados
-   Juan Alimana
-   El chinito
    
 ### Twitter 
 - [HISTOGRAM OF TWEETS](https://github.com/aggranadoss/BASES_DE_DATOS/tree/main/twitter)
